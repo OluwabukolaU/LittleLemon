@@ -1,0 +1,45 @@
+    
+USER NAMES
+Super user:
+    id : 1
+    username : admin
+    password : lemon@789!
+    authtoken : 6463a4cfbf006f0897e5f09f4e7b92553dff4e948
+
+Manager:
+    id : 2
+    username : Adrian
+    password : lemon@adr!  lemon@lov!
+    authtoken :b3e16c278df3a378a6f4db13283a35f2193329a9
+
+Delivery Crew:
+    id : 3
+    username : Mario
+    password : lemon@mar!
+    authtoken  : 173d3174f0e6350ac40b14c4868499da12fd4abe
+    
+    id : 4
+    username : Sana
+    password : lemon@san!
+    authtoken :22cb9ce715f6c79cfb352f1b0e1742e400216cd21
+
+Users:
+    id : 5
+    username : Sophia
+    password : lemon@sop!
+    authtoken  : a0b012a60d531187a63034993bc43fc2e029b7de
+   
+    id : 6
+    username : Kevin
+    password : lemon@kev!
+    authtoken  : efe7b3e37fc18c4ae5bd94bb2469c881b7a06de4
+   
+    id : 9
+    username : Oshe
+    password : lemon@Osh!
+    authtoken  : da175a443e0fa18160b4f9cb9d55eb95b157e828
+  
+    id : 8
+    username : Alui
+    password : lemon@Alu!
+    authtoken  : 5acf0f15c812c9275a80845a7a37e7658b4961a2
